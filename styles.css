@@ -1,0 +1,25 @@
+body{
+    border-style: groove;
+    background-color: grey ;
+    border-color: greenyellow;
+    margin: 330px;
+}
+
+img{
+    border-radius: 55%;
+    display: block;
+    margin: 0 auto;
+}
+
+h3{
+    color: green; 
+}
+
+h1{
+    text-align: center;
+    padding: 20px ;
+}
+
+p{
+    text-align: center;
+}
